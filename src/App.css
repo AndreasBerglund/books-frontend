@@ -1,0 +1,12 @@
+html, body {
+    background: #202020;
+    color: white;
+    display: flex; justify-content: center; align-items: center;
+}
+
+a:visited {
+    color: pink
+}
+a {
+    color:  pink
+}
